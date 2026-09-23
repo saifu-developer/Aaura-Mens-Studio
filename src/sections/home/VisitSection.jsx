@@ -84,7 +84,7 @@ export const VisitSection = () => {
                           Monday – Sunday
                         </p>
                         <p className="text-xs font-mono text-champagne mt-0.5">
-                          09:00 AM – 09:00 PM (Open 7 Days)
+                          09:00 AM – 09:00 PM
                         </p>
                       </div>
                     </div>
