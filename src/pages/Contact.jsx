@@ -1,5 +1,5 @@
 import React from 'react';
-import { MapPin, Phone, Clock, ExternalLink, Navigation, Sparkles } from 'lucide-react';
+import { MapPin, Phone, Clock, ExternalLink, Navigation, Sparkles, CheckCircle2 } from 'lucide-react';
 import PageTransition from '../components/ui/PageTransition';
 import Container from '../components/ui/Container';
 import SectionHeading from '../components/ui/SectionHeading';
